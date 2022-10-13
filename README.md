@@ -1,5 +1,9 @@
 # Our Massive Wiki
 
+## Making Wiki My Own
+
+- [[Hello, world]]
+
 ## For Editing Wiki Files
 
 Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
